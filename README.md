@@ -4,10 +4,12 @@
 
 ### The bootcamp covered: 
 
+Programming in python:
+
 - Types, variables, branching, loops.
 - Strings, lists, files.
 - Exception handling.
-- Object-oriented programming.
+- Design object-oriented programs with Python classes.
 - Use of Python libraries
 - SQL lite
 - Django
