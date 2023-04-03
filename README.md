@@ -1,9 +1,9 @@
 ### Hi there :smile:
 
-### My name is Heather. I am a software development graduate from Hyperion Dev Bootcamp :raised_hands:
+### My name is Heather. I am passionate about all things technology & coding :raised_hands:
 ### I am based in London.
 
-### The bootcamp covered: 
+### I have been learning python: and below are the things I have been learning;
 
 Programming in python:
 
@@ -16,6 +16,3 @@ Programming in python:
 - Django
 - html & Css
 
-### Link to my website: http://heatherbrandwilliamson.co.uk/
-
-### Link to my CV: http://heatherbrandwilliamson.co.uk/Resume%20Heather%20Brand%20Williamson.pdf
