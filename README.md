@@ -1,6 +1,7 @@
 ### Hi there :smile:
 
-HEATHER BRAND-WILLIAMSON
+### HEATHER BRAND-WILLIAMSON
+
 I am a designer, maker and coder. What excites me most about working in software development is being able to design and create things that have purpose and solve real problems. 
 
 
