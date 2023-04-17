@@ -11,6 +11,7 @@ I am a designer, maker and coder. What excites me most about working in software
 Programming in python:
 
 - Types, variables, branching, loops.
+- Functions & conditionals
 - Strings, lists, files.
 - Exception handling.
 - Design object-oriented programs with Python classes.
