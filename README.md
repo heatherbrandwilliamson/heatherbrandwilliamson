@@ -4,6 +4,9 @@
 
 I am a designer, maker and coder. What excites me most about working in software development is being able to design and create things that have purpose and solve real problems. 
 
+I am an architecture turned software developer;
+
+Throughout my studies in architectural design, I developed a deep understanding of the principles of design, user experience, and creative problem-solving. I honed my skills in spatial planning, conceptual development, and technical drawing, which have provided me with a solid foundation in design thinking and attention to detail.
 
 
 ### I have been learning python: and below are the things I have been learning;
