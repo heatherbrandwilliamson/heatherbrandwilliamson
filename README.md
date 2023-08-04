@@ -8,6 +8,8 @@ I am an architect turned software developer;
 
 Throughout my studies in architectural design, I developed a deep understanding of the principles of design, user experience, and creative problem-solving. I honed my skills in spatial planning, conceptual development, and technical drawing, which have provided me with a solid foundation in design thinking and attention to detail.
 
+### Makers Graduate August 2023
+
 
 ### I have been learning python: and below are the things I have been learning;
 
