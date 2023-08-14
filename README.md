@@ -5,13 +5,13 @@
 [About me](#about-me) | [Projects](#projects) | [Education](#education) | [Experience](#experience)  | [Interests](#interests) | [Contact](#contact) | [Portfolio](#portfolio)
  
 
-I am a full-stack junior developer. I love combining creativity with technical knowledge and bringing these traits into my coding. Tech has always been a passion of mine. It excites me to see how it changes our lives, when I started coding I immediately found it satisfying. I am now a competent and confident junior developer after completing the intensive 12 weeks of Makers Academy.
+I am a full-stack junior developer. I love combining creativity with technical knowledge and bringing these traits into my coding. Tech has always been a passion of mine. It excites me to see how it changes our lives, when I started coding I immediately found it satisfying. 
 
 Previously, I was a qualified architect. Through my studies in architectural design, I developed an understanding of design principles, user experience, and creative problem-solving. As a result of my experience in spatial planning, conceptual development, and technical drawing, I have a strong foundation in design thinking and attention to detail.
 
 I thrive under pressure and am comfortable working in unstructured environments. My excellent communication skills, adaptability, and organisational abilities enable me to add value in all situations.
 
-I am currently looking for a full-stack developer role in London.
+I am now a competent and confident junior developer after completing the intensive Makers Academy and currently looking for a full-stack developer role in London.
 
 # Skills
 
