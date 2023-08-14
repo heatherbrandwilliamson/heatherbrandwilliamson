@@ -38,29 +38,31 @@ My experiences delivering high-end architectural projects have honed my ability 
 
 | Project Name | Description | Link | Tech Stack |
 |--------------|-------------|------|------------|
-| MapChat       | A mobile app for generating chat lines based on nearby architecture. | [Link]() | React Native, Javascript, CSS, Jest, OnRender |
+| MapChat       | A mobile app for generating chat lines based on nearby architecture. | [Link](https://github.com/heatherbrandwilliamson/MapChat) | React Native, Javascript, CSS, Jest, OnRender |
+| Acebook       | A clone of facebook social media using MERN | [Link](https://www.heatherbrandwilliamson.co.uk) | MongoDb, React, Express, Node.js, Javascript, Css |
+| Shop Manager       | A web app to display my coding projects. | [Link](https://www.heatherbrandwilliamson.co.uk) | Python |
 | Portfolio Website       | A web app to display my coding projects. | [Link](https://www.heatherbrandwilliamson.co.uk) | Html, Css |
 
 
-Project	Description	Code/Demo Links	Technologies Used	Testing Technologies
 
 *All source code available on Github: https://github.com/heatherbrandwilliamson
 
 # Education
-Makers Academy (April 2023 to August 2023)
+
+### Makers Academy (April 2023 to August 2023)
 Highly selective 12 week intensive coding bootcamp, with a full scholarship. 
 
-Focus on Test Driven Development, with an emphasis on pair programming and working in an agile way
-Object oriented programming & software design
-Full stack web development
-Curiosity and a hungry passion for code
-Independent learner and problem-solver
-Aspiration to software craftsmanship
+- Focus on Test Driven Development, with an emphasis on pair programming and working in an agile way
+- Object oriented programming & software design
+- Full stack web development
+- Curiosity and a hungry passion for code
+- Independent learner and problem-solver
+- Aspiration to software craftsmanship
 
 
 Final project: Map Chat - An open AI driven chat generator.
 
-University of Nottingham (September 2007 to June 2010)
+### University of Nottingham (September 2007 to June 2010)
 BA Architecture
 Key Acheivements: Selected out of 250 students to take part in a live build school in South Africa with a group of 20 students. 
 
