@@ -35,11 +35,17 @@ I have developed an extremely keen eye for the fine details, from my experience 
 
 # Projects
 
+| Project Name | Description | Link | Tech Stack |
+|--------------|-------------|------|------------|
+| MapChat       | A mobile app for generating chat lines based on nearby architecture. | [Link]() | React Native, Javascript, CSS, Jest, OnRender |
+| Portfolio Website       | A web app to display my coding projects. | [Link](www.heatherbrandwilliamson.co.uk) | Html, Css |
+
+
 Project	Description	Code/Demo Links	Technologies Used	Testing Technologies
 
 *All source code available on Github: https://github.com/heatherbrandwilliamson
 
-## Education
+# Education
 Makers Academy (April 2023 to August 2023)
 Highly selective 12 week intensive coding bootcamp, with a full scholarship. 
 
@@ -57,7 +63,7 @@ University of Nottingham (September 2007 to June 2010)
 BA Architecture
 Key Acheivements: Selected out of 250 students to take part in a live build school in South Africa with a group of 20 students. 
 
-Experience
+# Experience
 
 Destination Living (November 2019 to April 2021)
 Graduate Architect 
