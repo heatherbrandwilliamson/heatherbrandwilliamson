@@ -80,5 +80,10 @@ Running - I have completed Brighton Marathon
 Baking - I have started a baking competition in my previous office. 
 Chess
 
-Contact
+## Contact
 
+heather.brandwilliamson@gmail.com
+
+## Portfolio
+
+[Link](https://www.heatherbrandwilliamson.co.uk)
