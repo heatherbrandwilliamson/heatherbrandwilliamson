@@ -14,12 +14,12 @@ I thrive under pressure and am comfortable working in unstructured environments.
 
 I am currently looking for a full-stack developer role in London.
 
-## Skills
+# Skills
 
 ## Curious
 My innate curiosity drives my ability to swiftly adapt to new technologies and acquire fresh skills efficiently. I approach novel challenges with enthusiasm, embracing the opportunity to delve into uncharted territories and broaden my knowledge base.
 
-# Problem Solver 
+## Problem Solver 
 Thriving on the intricacies of problem-solving, I am invigorated by the process of dissecting complex issues and crafting effective solutions. My passion for overcoming obstacles motivates me to approach each hurdle with determination, consistently seeking innovative paths to resolution. 
 
 ### Excellent communicator
@@ -76,15 +76,15 @@ Key Achievement: Promoted to manage a team of 3 staff, with leadership and respo
 ## Portfolio Site: heatherbrandwilliamson.co.uk
 
 
-## Interests
+# Interests
 Running - I have completed Brighton Marathon 
 Baking - I have started a baking competition in my previous office. 
 Chess
 
-## Contact
+# Contact
 
 heather.brandwilliamson@gmail.com
 
-## Portfolio
+# Portfolio
 
 [Link](https://www.heatherbrandwilliamson.co.uk)
