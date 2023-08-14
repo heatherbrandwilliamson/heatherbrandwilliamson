@@ -24,16 +24,16 @@ My innate curiosity drives my ability to swiftly adapt to new technologies and a
 - **Problem Solver**:
 Thriving on the intricacies of problem-solving, I am invigorated by the process of dissecting complex issues and crafting effective solutions. My passion for overcoming obstacles motivates me to approach each hurdle with determination, consistently seeking innovative paths to resolution. 
 
--**Excellent communicator**:
+- **Excellent communicator**:
 Throughout my professional journey, predominantly in client-facing roles, I have honed my ability to deeply comprehend client requirements. By actively listening and deftly managing expectations, I have established a strong rapport with clients. This has enabled me to not only meet their needs effectively but also ensure a harmonious working relationship.
 
--**Creative**:
+- **Creative**:
 My background in architecture has imbued me with a unique approach to creativity in problem-solving. I have cultivated the skill of thinking laterally when faced with seemingly insurmountable challenges. This lateral thinking, coupled with my architectural training, has allowed me to devise inventive solutions that often transcend conventional boundaries.
 
--**Inquisitive**:
+- **Inquisitive**:
 Driven by a relentless desire for knowledge, my love for learning has been further amplified during my time at Makers Academy. This institution has deepened my commitment to exploring the realms of development and code craftsmanship. I consistently seek to expand my horizons and stay at the forefront of advancements in the field.
 
--**Attention to detail**:
+- **Attention to detail**:
 My experiences delivering high-end architectural projects have honed my ability to maintain an unwavering attention to detail. This meticulousness has seamlessly transitioned into my coding journey, allowing me to produce clean and precise code. The ability to identify and rectify even the minutest discrepancies is a cornerstone of my work ethic.
 
 # Projects
