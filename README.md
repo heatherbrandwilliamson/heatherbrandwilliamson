@@ -38,7 +38,7 @@ I have developed an extremely keen eye for the fine details, from my experience 
 | Project Name | Description | Link | Tech Stack |
 |--------------|-------------|------|------------|
 | MapChat       | A mobile app for generating chat lines based on nearby architecture. | [Link]() | React Native, Javascript, CSS, Jest, OnRender |
-| Portfolio Website       | A web app to display my coding projects. | [Link](www.heatherbrandwilliamson.co.uk) | Html, Css |
+| Portfolio Website       | A web app to display my coding projects. | [Link](https://www.heatherbrandwilliamson.co.uk) | Html, Css |
 
 
 Project	Description	Code/Demo Links	Technologies Used	Testing Technologies
