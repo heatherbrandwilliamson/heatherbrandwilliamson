@@ -5,13 +5,13 @@
 [About me](#about-me) | [Projects](#projects) | [Education](#education) | [Experience](#experience)  | [Interests](#interests) | [Contact](#contact) | [Portfolio](#portfolio)
  
 
-A full-stack junior developer. My background combines creativity with a super high level of technical knowledge and I love bringing these traits into my coding. I have always been passionate about tech. The way it is changing our lives really excites me so I started coding and immediately got a lot of satisfaction from it. Logic, quick feedback, stack trace to find my way to the bug and infinite possibilities of what I could have created for the users with it. 
+I am a full-stack junior developer. I love combining creativity with technical knowledge and bringing these traits into my coding. Tech has always been a passion of mine. It excites me to see how it changes our lives, so I started coding and immediately found it satisfying. A logical approach to solving the problem, quick feedback, and a stack trace to find the bug created infinities of possibilities for the user.
 
-Having recently completed the intensive 12 weeks of Makers Academy, I have grown from an interested amateur coder into a competent and confident junior developer.
+I am now a competent and confident junior developer after completing the intensive 12 weeks of Makers Academy.
 
-Previously in my career, I qualified as an Architect. Throughout my studies in architectural design, I developed a deep understanding of the principles of design, user experience, and creative problem-solving. I honed my skills in spatial planning, conceptual development, and technical drawing, which have provided me with a solid foundation in design thinking and attention to detail. 
+Previously, I was a qualified architect. Through my studies in architectural design, I developed an understanding of design principles, user experience, and creative problem-solving. As a result of my experience in spatial planning, conceptual development, and technical drawing, I have a strong foundation in design thinking and attention to detail.
 
-I thrive under pressure and am comfortable working in unstructured environments. My excellent communication skills, adaptability, and organisational abilities enable me to add value in all situations. 
+I thrive under pressure and am comfortable working in unstructured environments. My excellent communication skills, adaptability, and organisational abilities enable me to add value in all situations.
 
 I am currently looking for a full-stack developer role in London.
 
