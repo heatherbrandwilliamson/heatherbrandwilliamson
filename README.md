@@ -11,7 +11,7 @@ Previously in my career, I qualified as an Architect. Throughout my studies in a
 
 I thrive under pressure and am comfortable working in unstructured environments. My excellent communication skills, adaptability, and organisational abilities enable me to add value in all situations. 
 
-I am currently looking to take on a career in the tech scene of London.
+I am currently looking for a full-stack developer role in London.
 
 ## Skills
 
