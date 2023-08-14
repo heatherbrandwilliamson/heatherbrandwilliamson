@@ -19,21 +19,21 @@ I am currently looking for a full-stack developer role in London.
 ## Curious
 Able to take on new technologies and learn new practices rapidly and efficiently. 
 
-## Problem Solver 
+# Problem Solver 
 
-# Excellent communicator
+### Excellent communicator
 Having always worked in a client facing role, since leaving University I am well accustomed to understand clients needs, listening and managing their expectations. 
 
-# Creative
+### Creative
 As an architect, I have learned to be creative with my problem-solving and try to look sideways when something seems intractable.
 
-# Inquisitive
+### Inquisitive
 I love learning and Makers Academy has only made me more committed to exploring development and code craftsmanship.
 
-# Attention to detail
+### Attention to detail
 I have developed an extremely keen eye for the fine details, from my experience deivering high end architectural projects. This skill has been amazing during my learning to code 
 
-## Projects
+# Projects
 
 Project	Description	Code/Demo Links	Technologies Used	Testing Technologies
 
