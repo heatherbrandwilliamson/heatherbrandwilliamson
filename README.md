@@ -4,7 +4,7 @@
 [About me](#about-me) | [Projects](#projects) | [Education](#education) | [Experience](#experience)  | [Interests](#interests) | [Contact](#contact) | [Portfolio](#portfolio)
  
 
-A full-stack junior developer. My background combines creativity with a super high level of technical knowledge and I love bringing these traits into my coding. I have become hugely passionate about writing code that is clean, tested and reusable.
+A full-stack junior developer. My background combines creativity with a super high level of technical knowledge and I love bringing these traits into my coding. I have always been passionate about tech. The way it is changing our lives really excites me so I started coding and immediately got a lot of satisfaction from it. Logic, quick feedback, stack trace to find my way to the bug and infinite possibilities of what I could have created for the users with it. 
 
 Having recently completed the intensive 12 weeks of Makers Academy, I have grown from an interested amateur coder into a competent and confident junior developer.
 
@@ -17,21 +17,22 @@ I am currently looking for a full-stack developer role in London.
 ## Skills
 
 ## Curious
-Able to take on new technologies and learn new practices rapidly and efficiently. 
+My innate curiosity drives my ability to swiftly adapt to new technologies and acquire fresh skills efficiently. I approach novel challenges with enthusiasm, embracing the opportunity to delve into uncharted territories and broaden my knowledge base.
 
 # Problem Solver 
+Thriving on the intricacies of problem-solving, I am invigorated by the process of dissecting complex issues and crafting effective solutions. My passion for overcoming obstacles motivates me to approach each hurdle with determination, consistently seeking innovative paths to resolution. 
 
 ### Excellent communicator
-Having always worked in a client facing role, since leaving University I am well accustomed to understand clients needs, listening and managing their expectations. 
+Throughout my professional journey, predominantly in client-facing roles, I have honed my ability to deeply comprehend client requirements. By actively listening and deftly managing expectations, I have established a strong rapport with clients. This has enabled me to not only meet their needs effectively but also ensure a harmonious working relationship.
 
 ### Creative
-As an architect, I have learned to be creative with my problem-solving and try to look sideways when something seems intractable.
+My background in architecture has imbued me with a unique approach to creativity in problem-solving. I have cultivated the skill of thinking laterally when faced with seemingly insurmountable challenges. This lateral thinking, coupled with my architectural training, has allowed me to devise inventive solutions that often transcend conventional boundaries.
 
 ### Inquisitive
-I love learning and Makers Academy has only made me more committed to exploring development and code craftsmanship.
+Driven by a relentless desire for knowledge, my love for learning has been further amplified during my time at Makers Academy. This institution has deepened my commitment to exploring the realms of development and code craftsmanship. I consistently seek to expand my horizons and stay at the forefront of advancements in the field.
 
 ### Attention to detail
-I have developed an extremely keen eye for the fine details, from my experience deivering high end architectural projects. This skill has been amazing during my learning to code 
+My experiences delivering high-end architectural projects have honed my ability to maintain an unwavering attention to detail. This meticulousness has seamlessly transitioned into my coding journey, allowing me to produce clean and precise code. The ability to identify and rectify even the minutest discrepancies is a cornerstone of my work ethic.
 
 # Projects
 
