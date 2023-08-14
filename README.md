@@ -71,9 +71,7 @@ Graduate Architect
 
 Gpad London (January 2005 to July 2019)
 Team Lead
-Key Achievement: Promoted to manage a team of 3 staff, with leadership and responsibility. 
-
-## Portfolio Site: heatherbrandwilliamson.co.uk
+Key Achievement: Promoted to manage a team of 3 staff, with leadership and responsibility for large construction projects.
 
 
 # Interests
@@ -90,4 +88,4 @@ heather.brandwilliamson@gmail.com
 
 # Portfolio
 
-[Link](https://www.heatherbrandwilliamson.co.uk)
+Portfolio Site: [Link](https://www.heatherbrandwilliamson.co.uk)
