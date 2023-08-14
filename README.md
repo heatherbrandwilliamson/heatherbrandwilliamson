@@ -1,33 +1,73 @@
 ### Hi there :smile:
 
 ### HEATHER BRAND-WILLIAMSON
+Some facts about me.
 
-I am a designer, maker and coder. What excites me most about working in software development is being able to design and create things that have purpose and solve real problems. 
+Skills | Current Projects | Education | Experience | Interests | Contact | Portfolio
 
-I am an architect turned software developer;
+A full-stack junior developer. My background combines creativity with a super high level of technical knowledge and I love bringing these traits into my coding. I have become hugely passionate about writing code that is clean, tested and reusable.
 
-Throughout my studies in architectural design, I developed a deep understanding of the principles of design, user experience, and creative problem-solving. I honed my skills in spatial planning, conceptual development, and technical drawing, which have provided me with a solid foundation in design thinking and attention to detail.
+Having recently completed the intensive 12 weeks of Makers Academy, I have grown from an interested amateur coder into a competent and confident junior developer.
 
-### Makers Graduate August 2023
+Previously in my career, I qualified as an Architect. Throughout my studies in architectural design, I developed a deep understanding of the principles of design, user experience, and creative problem-solving. I honed my skills in spatial planning, conceptual development, and technical drawing, which have provided me with a solid foundation in design thinking and attention to detail. 
+
+I am currently looking to take on a career in the tech scene of London.
+
+## Skills
+
+## Curious
+Able to take on new technologies and learn new practices rapidly and efficiently. 
+
+## Problem Solver 
+
+## Excellent communicator - Having always worked in a client facing role, since leaving University I am well accustomed to understand clients needs, listening and managing their expectations. 
+
+## Creative - As an architect, I have learned to be creative with my problem-solving and try to look sideways when something seems intractable.
+
+## Inquisitive - I love learning and Makers Academy has only made me more committed to exploring development and code craftsmanship.
+
+## Attention to detail - I have developed an extremely keen eye for the fine details, from my experience deivering high end architectural projects. This skill has been amazing during my learning to code 
+
+## Projects & Code
+
+Project	Description	Code/Demo Links	Technologies Used	Testing Technologies
+
+*All source code available on Github: https://github.com/heatherbrandwilliamson
+
+## Education
+Makers Academy (April 2023 to August 2023)
+Highly selective 12 week intensive coding bootcamp, with a full scholarship. 
+
+Focus on Test Driven Development, with an emphasis on pair programming and working in an agile way
+Object oriented programming & software design
+Full stack web development
+Curiosity and a hungry passion for code
+Independent learner and problem-solver
+Aspiration to software craftsmanship
 
 
-### I have been learning python: and below are the things I have been learning;
+Final project: Map Chat - An open AI driven chat generator.
 
-Programming in python:
+University of Nottingham (September 2007 to June 2010)
+BA Architecture
+Key Acheivements: Selected out of 250 students to take part in a live build school in South Africa with a group of 20 students. 
 
-- Types, variables, branching, loops.
-- Functions & conditionals
-- Strings, lists, files.
-- Exception handling.
-- Design object-oriented programs with Python classes.
-- Use of Python libraries
-- SQL lite
-- Django
-- html & Css
+Experience
 
-Other projects include: 
+Destination Living (November 2019 to April 2021)
+Graduate Architect 
 
-Code First Girls App - Travel Blog, built using React.js, html, css and javascript. 
+Gpad London (January 2005 to July 2019)
+Team Lead
+Key Achievement: Promoted to manage a team of 3 staff, with leadership and responsibility. 
 
-Wedding Website built using React.js, html, css and javascript. 
+## Portfolio Site: heatherbrandwilliamson.co.uk
+
+
+## Interests
+Running - I have completed Brighton Marathon 
+Baking - I have started a baking competition in my previous office. 
+Chess
+
+Contact
 
