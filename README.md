@@ -77,8 +77,11 @@ Key Achievement: Promoted to manage a team of 3 staff, with leadership and respo
 
 
 # Interests
+
 Running - I have completed Brighton Marathon 
+
 Baking - I have started a baking competition in my previous office. 
+
 Chess
 
 # Contact
