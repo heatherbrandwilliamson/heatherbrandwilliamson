@@ -1,7 +1,8 @@
 ### HEATHER BRAND-WILLIAMSON
 ### Hi there :smile:
 
-Skills | Current Projects | Education | Experience | Interests | Contact | Portfolio
+[About me](#about-me) | [Projects](#projects) | [Education](#education) | [Experience](#experience)  | [Interests](#interests) | [Contact](#contact) | [Portfolio](#portfolio)
+ 
 
 A full-stack junior developer. My background combines creativity with a super high level of technical knowledge and I love bringing these traits into my coding. I have become hugely passionate about writing code that is clean, tested and reusable.
 
