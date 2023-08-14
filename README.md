@@ -1,5 +1,4 @@
-### HEATHER BRAND-WILLIAMSON
-### Hi there :smile:
+## HEATHER BRAND-WILLIAMSON
 
 [About me](#about-me) | [Projects](#projects) | [Education](#education) | [Experience](#experience)  | [Interests](#interests) | [Contact](#contact) | [Portfolio](#portfolio)
  
