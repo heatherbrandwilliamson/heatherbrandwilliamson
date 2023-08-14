@@ -1,7 +1,5 @@
-### Hi there :smile:
-
 ### HEATHER BRAND-WILLIAMSON
-Some facts about me.
+### Hi there :smile:
 
 Skills | Current Projects | Education | Experience | Interests | Contact | Portfolio
 
@@ -10,6 +8,8 @@ A full-stack junior developer. My background combines creativity with a super hi
 Having recently completed the intensive 12 weeks of Makers Academy, I have grown from an interested amateur coder into a competent and confident junior developer.
 
 Previously in my career, I qualified as an Architect. Throughout my studies in architectural design, I developed a deep understanding of the principles of design, user experience, and creative problem-solving. I honed my skills in spatial planning, conceptual development, and technical drawing, which have provided me with a solid foundation in design thinking and attention to detail. 
+
+I thrive under pressure and am comfortable working in unstructured environments. My excellent communication skills, adaptability, and organisational abilities enable me to add value in all situations. 
 
 I am currently looking to take on a career in the tech scene of London.
 
