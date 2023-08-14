@@ -41,7 +41,7 @@ My experiences delivering high-end architectural projects have honed my ability 
 | MapChat       | A mobile app for generating chat lines based on nearby architecture. | [Link](https://github.com/heatherbrandwilliamson/MapChat) | React Native, Javascript, CSS, Jest, OnRender |
 | Acebook       | A clone of facebook social media using MERN | [Link](https://www.heatherbrandwilliamson.co.uk) | MongoDb, React, Express, Node.js, Javascript, Css |
 | Makers BNB       | Air bnb style website | [Link](https://www.heatherbrandwilliamson.co.uk) | Ruby, Sinatra, HTML, Postgres, SQL, Css |
-| Shop Manager       | A web app to display my coding projects. | [Link](https://www.heatherbrandwilliamson.co.uk) | Python |
+| Shop Manager       | A shop manager for processing orders | [Link](https://www.heatherbrandwilliamson.co.uk) | Python |
 | Portfolio Website       | A web app to display my coding projects. | [Link](https://www.heatherbrandwilliamson.co.uk) | Html, Css |
 
 
