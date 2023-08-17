@@ -12,7 +12,7 @@ Through my studies in architectural design, I developed an understanding of desi
 I thrive under pressure and am comfortable working in unstructured environments. My excellent communication skills, adaptability, and organisational abilities enable me to add value in all situations.
 
 
-[Portfolio](#portfolio)
+Here is my [Portfolio](#portfolio)
 
 
 # Projects
