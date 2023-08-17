@@ -17,7 +17,7 @@ I thrive under pressure and am comfortable working in unstructured environments.
 | Project Name | Description | Link | Tech Stack |
 |--------------|-------------|------|------------|
 | MapChat       | A mobile app for generating chat lines based on nearby architecture. | [Link](https://github.com/heatherbrandwilliamson/MapChat) | React Native, Javascript, CSS, Jest, OnRender |
-| HomeHub       | A social media web app using MERN Stack | [Link](https://www.heatherbrandwilliamson.co.uk/Homehub) | MongoDb, React, Express, Node.js, Javascript, Css |
+| HomeHub       | A social media web app using MERN Stack | [Link](https://www.heatherbrandwilliamson.co.uk/HomeHub) | MongoDb, React, Express, Node.js, Javascript, Css |
 | Makers BNB       | Air bnb style website | [Link](https://www.heatherbrandwilliamson.co.uk) | Ruby, Sinatra, HTML, Postgres, SQL, Css |
 | Shop Manager       | A shop manager for processing orders | [Link](https://www.heatherbrandwilliamson.co.uk) | Python |
 | Portfolio Website       | A web app to display my coding projects. | [Link](https://www.heatherbrandwilliamson.co.uk) | Html, Css |
