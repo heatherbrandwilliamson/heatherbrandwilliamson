@@ -11,7 +11,18 @@ Through my studies in architectural design, I developed an understanding of desi
 
 I thrive under pressure and am comfortable working in unstructured environments. My excellent communication skills, adaptability, and organisational abilities enable me to add value in all situations.
 
-I am now a competent and confident junior developer after completing the intensive Makers Academy and currently looking for a full-stack developer role in London.
+
+# Projects
+
+| Project Name | Description | Link | Tech Stack |
+|--------------|-------------|------|------------|
+| MapChat       | A mobile app for generating chat lines based on nearby architecture. | [Link](https://github.com/heatherbrandwilliamson/MapChat) | React Native, Javascript, CSS, Jest, OnRender |
+| HomeHub       | A social media web app using MERN Stack | [Link](https://www.heatherbrandwilliamson.co.uk/Homehub) | MongoDb, React, Express, Node.js, Javascript, Css |
+| Makers BNB       | Air bnb style website | [Link](https://www.heatherbrandwilliamson.co.uk) | Ruby, Sinatra, HTML, Postgres, SQL, Css |
+| Shop Manager       | A shop manager for processing orders | [Link](https://www.heatherbrandwilliamson.co.uk) | Python |
+| Portfolio Website       | A web app to display my coding projects. | [Link](https://www.heatherbrandwilliamson.co.uk) | Html, Css |
+
+
 
 # Skills
 
@@ -28,23 +39,8 @@ Throughout my professional journey, predominantly in client-facing roles, I have
 - **Creative**:
 My background in architecture has imbued me with a unique approach to creativity in problem-solving. I have cultivated the skill of thinking laterally when faced with seemingly insurmountable challenges. This lateral thinking, coupled with my architectural training, has allowed me to devise inventive solutions that often transcend conventional boundaries.
 
-- **Inquisitive**:
-Driven by a relentless desire for knowledge, my love for learning has been further amplified during my time at Makers Academy. This institution has deepened my commitment to exploring the realms of development and code craftsmanship. I consistently seek to expand my horizons and stay at the forefront of advancements in the field.
-
 - **Attention to detail**:
 My experiences delivering high-end architectural projects have honed my ability to maintain an unwavering attention to detail. This meticulousness has seamlessly transitioned into my coding journey, allowing me to produce clean and precise code. The ability to identify and rectify even the minutest discrepancies is a cornerstone of my work ethic.
-
-# Projects
-
-| Project Name | Description | Link | Tech Stack |
-|--------------|-------------|------|------------|
-| MapChat       | A mobile app for generating chat lines based on nearby architecture. | [Link](https://github.com/heatherbrandwilliamson/MapChat) | React Native, Javascript, CSS, Jest, OnRender |
-| Acebook       | A clone of facebook social media using MERN | [Link](https://www.heatherbrandwilliamson.co.uk) | MongoDb, React, Express, Node.js, Javascript, Css |
-| Makers BNB       | Air bnb style website | [Link](https://www.heatherbrandwilliamson.co.uk) | Ruby, Sinatra, HTML, Postgres, SQL, Css |
-| Shop Manager       | A shop manager for processing orders | [Link](https://www.heatherbrandwilliamson.co.uk) | Python |
-| Portfolio Website       | A web app to display my coding projects. | [Link](https://www.heatherbrandwilliamson.co.uk) | Html, Css |
-
-
 
 *All source code available on Github: https://github.com/heatherbrandwilliamson
 
