@@ -66,6 +66,11 @@ Final project: Map Chat - An open AI driven chat generator.
 BA Architecture
 Key Acheivements: Selected out of 250 students to take part in a live build school in South Africa with a group of 20 students. 
 
+### A-Levels
+Maths - A
+Physics - A 
+Art - A
+
 # Experience
 
 Destination Living (November 2019 to April 2021)
